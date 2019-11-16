@@ -7,7 +7,7 @@ if (!file_exists('token')) {
 
 include ("curl.php");
 echo "\n";
-echo "\e[94m          Voucher Gojek Maknyus           \n";
+echo "\e[94m          Voucher Gojek Hades News          \n";
 echo "\e[91m No HP : INDO '62***' , US='1***'\n";
 echo "\e[93m Aplikasi Ambil Voucher Gojek\n";
 echo "\e[93m Website : www.androdark.com\n";
